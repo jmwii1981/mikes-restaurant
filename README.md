@@ -1,2 +1,2 @@
 # Mike's Restaurant
-## A demo of the Vega design system.
+## A demo of a React.js web App that utilizes the Vega design system.
